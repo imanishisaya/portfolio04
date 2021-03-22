@@ -532,13 +532,14 @@ footer {
   display: none;
 }
 
-.container {
+.footer-container {
   display: flex;
   flex-direction: column;
 }
 
 .icon {
   padding-bottom: 15px;
+  text-align: center;
 }
 
 .footer-logo {
